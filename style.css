@@ -148,7 +148,7 @@ font-size: 20px;
 }
 .facebook-list-wrapper-2 {
     position: relative;
-    top:11000px ;
+    top:5200px ;
 
 }
 .facebook-list-wrapper-3 {
@@ -304,7 +304,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin:20px 0 ;
-    top: 3000px;
+    top: 2500px;
 }
 .post-container-3 {
     width: 100%;
@@ -313,7 +313,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20px 0;
-    top: 6500px;
+    top: 3500px;
 }
 .user-profile {
     display: flex;
@@ -472,7 +472,7 @@ font-size: 20px;
 .facebook-list-title-2 {
     position: relative;
     color: aliceblue;
-    top: 9450px;
+    top: 5050px;
 }
 
 .game {
